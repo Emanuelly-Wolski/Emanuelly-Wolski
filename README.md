@@ -1,4 +1,12 @@
-## Bem-vindo(a) ao perfil de Emanuelly Wolski 😁
+## Bem-vindo(a) ao meu perfil 😁
+
+📍Me chamo Emanuelly Wolski, sou uma Desenvolvedora Frontend Iniciante.
+
+💻 Estou cursando Análise e Desenvolvimento de Sistemas na UFPR.
+
+🚀 Adoro o universo da tecnologia e todas as suas possibilidades.
+
+💡Atualmente venho aprendendo e aprimorando minhas habilidades na tríade do Front!
  <div>
   <a href="https://github.com/Emanuelly-Wolski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuelly-Wolski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,12 +20,10 @@
  
  <br>
  
-  ### Pra mais informações é só dar uma olhada nas redes abaixo!
+  ### Contato através das redes abaixo!
  
 <div> 
 
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wolski.reserva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuelly-wolski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
