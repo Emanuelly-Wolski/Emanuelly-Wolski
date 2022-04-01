@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu perfil 😁
 
-📍 Me chamo Emanuelly Wolski, sou uma Desenvolvedora Frontend Iniciante.
+📍 Me chamo Emanuelly Wolski, sou uma Desenvolvedora Front-end Iniciante.
 
 💻 Estou cursando Análise e Desenvolvimento de Sistemas na UFPR.
 
