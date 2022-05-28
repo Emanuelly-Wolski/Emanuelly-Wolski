@@ -2,7 +2,7 @@
 
 📍 Me chamo Emanuelly Wolski, sou uma Desenvolvedora Front-end Iniciante.
 
-💻 Estou cursando Análise e Desenvolvimento de Sistemas na UFPR.
+💻 Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na UFPR.
 
 🚀 Adoro o universo da tecnologia e todas as suas possibilidades.
 
