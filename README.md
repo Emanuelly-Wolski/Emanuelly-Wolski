@@ -6,7 +6,7 @@
 
 🚀 Adoro o universo da tecnologia e todas as suas possibilidades.
 
-💡Atualmente venho aprendendo e aprimorando minhas habilidades na tríade do Front, além de muitos outros conceitos e práticas por meio do curso DevQuest.
+💡Atualmente venho aprendendo e aprimorando minhas habilidades na tríade do Front com HTML, CSS e JavaScript, além de outros conceitos e práticas essenciais, como o Clean Code e versionamento através do curso DevQuest.
  <div>
   <a href="https://github.com/Emanuelly-Wolski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuelly-Wolski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
