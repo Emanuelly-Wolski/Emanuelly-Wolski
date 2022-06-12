@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao meu perfil 😁
+### Bem-vindo(a) ao meu perfil 🙂
 
 📍 Me chamo Emanuelly Wolski, sou uma Desenvolvedora Front-end Iniciante.
 
