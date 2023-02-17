@@ -1,12 +1,12 @@
 ### Bem-vindo(a) ao meu perfil 🙂
 
-📍 Me chamo Emanuelly Wolski, sou uma Desenvolvedora Front-End Iniciante.
+📍 Me chamo Emanuelly Wolski, sou uma Desenvolvedora iniciante.
 
-💻 Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas na UFPR.
+💻 Estou cursando o quarto período de Análise e Desenvolvimento de Sistemas na UFPR.
 
 🚀 Adoro o universo da tecnologia e todas as suas possibilidades.
 
-💡Atualmente venho aprendendo e aprimorando minhas habilidades na tríade do Front com HTML, CSS e JavaScript, além de outros conceitos e práticas essenciais, como o Clean Code, Responsividade e Versionamento através do curso DevQuest.
+💡Atualmente venho aprendendo e aprimorando minhas habilidades na tríade do Front com HTML, CSS e JavaScript, além de outros conceitos e práticas essenciais, como o Clean Code, Responsividade e Versionamento através do curso DevQuest. Além disso, tenho interesse em análise de dados e automações.
  <div>
   <a href="https://github.com/Emanuelly-Wolski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuelly-Wolski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
