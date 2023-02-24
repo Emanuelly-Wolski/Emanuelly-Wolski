@@ -6,14 +6,14 @@
 
 🚀 Adoro o universo da tecnologia e todas as suas possibilidades.
 
-💡Atualmente venho aprendendo e aprimorando minhas habilidades na tríade do Front com HTML, CSS e JavaScript, além de outros conceitos e práticas essenciais, como o Clean Code, Responsividade e Versionamento através do curso DevQuest. Além disso, tenho interesse em análise de dados e automações.
+💡 Possuo conhecimentos que considero básicos na tríade do Front com HTML, CSS e JavaScript. Busco colocar em prática conceitos como o Clean Code, a Responsividade e Versionamento de código que aprendi através do curso DevQuest. Além disso, tenho interesse em Análise de dados e Automações, por conta disso, venho estudando a linguagem Python.
  <div>
   <a href="https://github.com/Emanuelly-Wolski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuelly-Wolski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelly-Wolski&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
- ### Tecnologias que estou utilizando e me aprimorando no momento:
+ ### Tecnologias que possuo conhecimentos básicos/intermediários:
 <div style="display: inline_block"><br>
   <img align="center" title="HTML"alt="HTML" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" title="CSS"alt="CSS" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -23,15 +23,10 @@
   <img align="center" title="Figma"alt="Git" height="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
  
- ### Tecnologias que vou estudar a seguir:
+ ### Linguagem que estou estudando no momento:
  <div style="display: inline_block"><br>
-  <img align="center" title="React" alt="React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" title="Redux" alt="Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" title="Jest" alt="Jest" height="27" width="37"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" title="TypeScript" alt="Jest" height="27" width="37"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img  align="center" title="Sass" alt="Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+   <img align="center" title="Python"alt="Python" height="52"width="52"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
-
  
   ### Contato através das redes abaixo!
  
