@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelly-Wolski&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
- ### Tecnologias que possuo conhecimentos básicos/intermediários:
+ ### Tecnologias que possuo conhecimentos básicos:
 <div style="display: inline_block"><br>
   <img align="center" title="HTML"alt="HTML" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" title="CSS"alt="CSS" height="40"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -23,9 +23,11 @@
   <img align="center" title="Figma"alt="Git" height="40"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
  
- ### Linguagem que estou estudando no momento:
+ ### Linguagem/Ferramentas que estou estudando no momento:
  <div style="display: inline_block"><br>
    <img align="center" title="Python"alt="Python" height="52"width="52"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+   <img align="center" title="Jupyter" height="52"width="52"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+   <img align="center" title="Pycharm" height="90"width="85"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
 </div>
  
   ### Contato através das redes abaixo!
