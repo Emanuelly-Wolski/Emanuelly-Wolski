@@ -6,7 +6,7 @@
 
 🚀 Adoro o universo da tecnologia e todas as suas possibilidades.
 
-💻 Atualmente trabalho com VBA, Excel, Power Automate, Power BI e demais tecnologias da Microsoft em meu Estágio nem uma equipe que visa a melhoria e automações de processos.
+💻 Atualmente no estágio, trabalho com VBA, Excel, Power Automate, Power BI e demais tecnologias da Microsoft, em uma equipe que visa a melhoria e automações de processos internos.
 
 💡 Possuo conhecimentos que considero básicos na tríade do Front com HTML, CSS e JavaScript. Busco colocar em prática conceitos como o Clean Code, a Responsividade e Versionamento de código que aprendi através do curso DevQuest. Além disso, tenho interesse em Análise de dados e Automações, por conta disso, venho estudando a linguagem Python.
  <div>
